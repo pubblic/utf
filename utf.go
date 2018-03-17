@@ -1,4 +1,4 @@
-package utf16
+package utf
 
 import (
 	"unicode/utf16"
